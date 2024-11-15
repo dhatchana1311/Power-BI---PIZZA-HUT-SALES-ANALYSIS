@@ -14,14 +14,10 @@ This project is a **Pizza Sales Dashboard** developed using Power BI. The dashbo
 - [Overview](#overview)
 - [Features](#features)
 - [Data Source](#data-source)
-- [Project Structure](#project-structure)
 - [Dashboard Insights](#dashboard-insights)
-- [Getting Started](#getting-started)
+- [Getting Started](#getting-started
 - [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Data Source
 The dataset used for this dashboard includes:
